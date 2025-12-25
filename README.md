@@ -3,7 +3,7 @@
 WEEK1
 python basics-
 basic syntax, variables, loops ,lists sets and tuples
-functions- defining and calling functions and passing arguments
+functions- defining and calling functions and passing arguments               
 importing in built modules and also installing external modules using PIP
 
 WEEK 2
